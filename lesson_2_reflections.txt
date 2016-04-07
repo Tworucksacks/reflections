@@ -24,4 +24,18 @@ need.
 
 ***
 
- 
+What are some situations where branches would be helpful in keeping your
+history organized? How would branches help?
+
+Branches allow you to test new ideas or feature separate from the main branch.
+You can see if the changes work and then discard or introduce back into the
+main branch with merging.
+
+***
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams nicely shows which commits are on separate branches and which are
+on all branches.
+
+***

@@ -47,3 +47,12 @@ Merging two branches brings the code together. Git will intelligently work out
 what has changed (either added or deleted) and merge them.
 
 ***
+
+What are the pros and cons of Git's automatic merging vs always doing the
+merges manually?
+
+Git's auto merging allows for the easy merges to be done while just
+highlighting any ambiguous changes. This allows the merger to just focus on
+those changes and not have to look at all changes.
+
+*** 

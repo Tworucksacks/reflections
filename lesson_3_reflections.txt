@@ -1,6 +1,16 @@
 
-When would you want to use a remote repository rather than keeping all your work local? 
- 
-A remote repository helps when you are working with other people or from multiple machines. It also doubles as a handy offsite backup :-) 
+When would you want to use a remote repository rather than keeping all your work
+local?
 
-*** 
+A remote repository helps when you are working with other people or from
+multiple machines. It also doubles as a handy offsite backup :-)
+
+***
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+It would get very confusing if your local repository kept adding new commits
+behind the scenes all the time.
+
+***

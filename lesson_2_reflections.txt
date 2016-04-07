@@ -14,4 +14,14 @@ what you want to add.
 
 ***
 
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+git diff shows the difference between the working directory and the staging
+area. git diff --staged will show the difference between the staging area and
+the head commit. Using these you can make sure you have just the files you
+need.
+
+***
+
  

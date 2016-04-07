@@ -39,3 +39,11 @@ The diagrams nicely shows which commits are on separate branches and which are
 on all branches.
 
 ***
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+Merging two branches brings the code together. Git will intelligently work out
+what has changed (either added or deleted) and merge them.
+
+***

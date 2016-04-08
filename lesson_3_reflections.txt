@@ -14,3 +14,19 @@ It would get very confusing if your local repository kept adding new commits
 behind the scenes all the time.
 
 ***
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of the other?
+
+A fork is when you take a copy of somebodies repository on Github that you
+want to work on and develop separately while still acknowledging their initial
+work. With a fork you can't push to the original repository.
+A clone is when you copy an existing repository with the ability to push commits
+ back to it. You automatically get a remote link to it and can contribute
+changes if desired.
+A branch is a copy of an existing commit within your repository which allows you
+to experiment with the code without impacting the master branch. You can then
+decide if you want to add the code back in or discard it.
+
+***
+ 

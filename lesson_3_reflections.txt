@@ -29,4 +29,12 @@ to experiment with the code without impacting the master branch. You can then
 decide if you want to add the code back in or discard it.
 
 ***
- 
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+This allows you to look at the changes made remotely without impacting your
+current code. You can switch to these commits to test them. You can also diff
+to see the changes made. Additionally it allows you to work offline.
+
+***

@@ -38,3 +38,14 @@ current code. You can switch to these commits to test them. You can also diff
 to see the changes made. Additionally it allows you to work offline.
 
 ***
+
+How would you collaborate without using Git or GithHub? What would be easier,
+and what would be harder?
+
+You would need to use enails and send files around. Somebody would have to be
+responsible for maintaining a master version of all the files. It might be
+easier if you could just send your files off to someone else and it would be
+their responsibility to do the merging. It would be much harder coordinating
+all the changes and trying to get a master version to work off.
+
+***

@@ -49,3 +49,13 @@ their responsibility to do the merging. It would be much harder coordinating
 all the changes and trying to get a master version to work off.
 
 ***
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefit does each approach have?
+
+Making changes in a separate branch allows to complete your work without
+worrying what other people are doing in master. You can just do a final diff at
+the end and bring it all together. Working just in master would make it easier
+to merge things, but potentially would end up in a bigger mess as some point.
+
+***
